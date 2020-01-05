@@ -1,0 +1,77 @@
+<resources>
+
+
+    <string name="app_name">Holideys</string>
+    <string name="country_name" />
+    <string name="txt_year" />
+    <string name="ok" />
+
+    <string name="close_drawer">close</string>
+    <string name="open_drawer">open</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="new_year">
+   Новый год — главный календарный праздник, наступающий в момент перехода с последнего дня года в первый день следующего года. Отмечается многими народами в соответствии с принятым календарём.
+
+Начало года с 1 января было установлено римским правителем Юлием Цезарем в 46 году до нашей эры. В Древнем Риме этот день был посвящён Янусу — богу выбора, дверей и всех начал. Месяц январь получил своё название в честь бога Януса, которого изображали с двумя лицами: одно смотрело вперёд, а другое — назад
+</string>
+
+
+    <string name="holi">
+
+        Holi is a popular ancient Hindu festival, originating from the Indian subcontinent. It is celebrated predominantly in India and Nepal, but has also spread to other areas of Asia and parts of the Western world through the diaspora from the Indian subcontinent. Holi is popularly known as the Indian "festival of spring", the "festival of colours", or the "festival of love". The festival signifies the arrival of spring, the end of winter, the blossoming of love, and for many a festive day to meet others, play and laugh, forget and forgive, and repair broken relationships. The festival also celebrates the beginning of a good spring harvest season.It lasts for a night and a day, starting on the evening of the Purnima (Full Moon day) falling in the Vikram Samvat Calendar, in the Hindu calendar month of Phalguna, which falls around middle of March in the Gregorian calendar. The first evening is known as Holika Dahan (burning of demon holika) or Chhoti Holi and the following day as Holi, Rangwali Holi, Dhuleti, Dhulandi, or Phagwah.
+
+Holi is an ancient Hindu religious festival which has become popular with non-Hindus as well in many parts of South Asia, as well as people of other communities outside Asia. In addition to India and Nepal, the festival is celebrated by Indian subcontinent diaspora in countries such as Jamaica, Suriname, Guyana, Trinidad and Tobago, South Africa, Malaysia, the United Kingdom, the United States, Canada, Mauritius, and Fiji. In recent years the festival has spread to parts of Europe and North America as a spring celebration of love, frolic, and colours.
+
+Holi celebrations start on the night before Holi with a Holika Dahan where people gather, perform religious rituals in front of the bonfire, and pray that their internal evil be destroyed the way Holika, the sister of the demon king Hiranyakashipu, was killed in the fire. The next morning is celebrated as Rangwali Holi – a free-for-all festival of colours, where people smear each other with colours and drench each other. Water guns and water-filled balloons are also used to play and colour each other. Anyone and everyone is fair game, friend or stranger, rich or poor, man or woman, children, and elders. The frolic and fight with colours occurs in the open streets, open parks, outside temples and buildings. Groups carry drums and other musical instruments, go from place to place, sing and dance. People visit family, friends and foes to throw coloured powders on each other, laugh and gossip, then share Holi delicacies, food and drinks. Some customary drinks include bhang (made from cannabis), which is intoxicating.In the evening, after sobering up, people dress up and visit friends and family.
+    </string>
+
+    <string name="hanami">
+        Hanami (花見, "flower viewing") is the Japanese traditional custom of enjoying the transient beauty of flowers; flowers ("hana") are in this case almost always referring to those of the cherry ("sakura") or, less frequently, plum ("ume") trees. From the end of March to early May, cherry trees bloom all over Japan, and around the first of February on the island of Okinawa. The blossom forecast (桜前線 sakura-zensen) "cherry blossom front" is announced each year by the weather bureau, and is watched carefully by those planning hanami as the blossoms only last a week or two.
+
+In modern-day Japan, hanami mostly consists of having an outdoor party beneath the sakura during daytime or at night. In some contexts the Sino-Japanese term kan temporary paper lanterns are hung for the purpose of yozakura. On the island of Okinawa, decorative electric lanterns are hung in the trees for evening enjoyment, such as on the trees ascending Mt. Yae, near Motobu Town, or at the Nakijin Castle.
+
+A more ancient form of hanami also exists in Japan, which is enjoying the plum blossoms (梅 ume) instead, which is narrowly referred to as umemi (梅見, plum-viewing). This kind of hanami is popular among older people, because they are calmer than the sakura parties, which usually involve younger people and can sometimes be very crowded and noisy.
+    </string>
+
+    <string name="Internet_day">
+        This celebration has its first antecedent in the celebration of World Telecommunication Day, an anniversary centered around the telecommunications profession and its professionals. Later in the 90s, the United States held its own "Internet Day" with the specific goal of connecting schools to Internet infrastructure. The day ceased to be celebrated once the problem of disconnected schools was solved.
+
+In the mid-90s in France emerged La fête de l’internet, an event that is still celebrated annually in mid-March each year and is focused on francophone countries.
+
+In 2004, the European Union established Safer Internet Day in order to raise awareness for the cause of making a more secure and reliable Internet. This action was supported by several EU countries and the event was held again in 2005.
+
+Also in 2004, an Internet Day initiative emerged in Spain from a proposal from the Association of Internet Users, to which different organizations are added together, taking their first celebration of Internet Day 2005 25 October this year with remarkable success of participation.
+
+Following the declaration in Tunisia, the organizers of Internet Day have set a date for its implementation on May 17 and will contribute within their means to develop this initiative in all countries of the world
+    </string>
+
+    <string name="harvey_day">
+        Harvey Ross Ball (July 10, 1921 – April 12, 2001) was an American commercial artist. He is recognized as the designer of a popular smiley graphic picture, which became an enduring and notable international icon.[1] Ball was born and raised in Worcester, Massachusetts, by his parents Ernest G Ball and Christine or Kitty Ross Ball.[2] Ball had five siblings, three younger by the names of Merrit, Virginia, and Raymond, and two older by the names of Jessie and Ernest Jr.[3] During his time as a student at Worcester South High School, he became an apprentice to a local sign painter, and later attended the Worcester Art Museum School, where he studied fine arts.
+   \n
+        Ball was based in Asia and the Pacific during World War II and was awarded the Bronze Star for heroism during the Battle of Okinawa. He served 27 years in the National Guard, retired as a full Colonel in 1973 and then served six years in the Army Reserves. He retired as a Brigadier General in 1979. Ball was awarded the Veteran of the Year award from the Worcester Veterans Council in 1999.
+    </string>
+    <string name="black_friday">
+
+        Black Friday is an informal name for the Friday following Thanksgiving Day in the United States, which is celebrated on the fourth Thursday of November. The day after Thanksgiving has been regarded as the beginning of the United States Christmas shopping season since 1952, although the term "Black Friday" did not become widely used until more recent decades.
+        \n
+        Many stores offer highly promoted sales on Black Friday and open very early, such as at midnight, or may even start their sales at some time on Thanksgiving. Black Friday is not an official holiday, but California and some other states observe "The Day After Thanksgiving" as a holiday for state government employees, sometimes in lieu of another federal holiday, such as Columbus Day. Many non-retail employees and schools have both Thanksgiving and the following Friday off, which, along with the following regular weekend, makes it a four-day weekend, thereby increasing the number of potential shoppers.
+        \n
+        Black Friday has routinely been the busiest shopping day of the year in the United States since 2005, although news reports, which at that time were inaccurate, have described it as the busiest shopping day of the year for a much longer period of time.[4] Similar stories resurface year upon year at this time, portraying hysteria and shortage of stock, creating a state of positive feedback.
+        \n
+        In 2014, spending volume on Black Friday fell for the first time since the 2008 recession. $50.9 billion was spent during the four-day Black Friday weekend, down 11% from the previous year. However, the U.S. economy was not in a recession. Christmas creep has been cited as a factor in the diminishing importance of Black Friday, as many retailers now spread out their promotions over the entire months of November and December rather than concentrate them on a single shopping day or weekend.
+        \n
+        The earliest evidence of the phrase Black Friday applied to the day after Thanksgiving in a shopping context suggests that the term originated in Philadelphia, where it was used to describe the heavy and disruptive pedestrian and vehicle traffic that would occur on the day after Thanksgiving. This usage dates to at least 1961. More than twenty years later, as the phrase became more widespread, a popular explanation became that this day represented the point in the year when retailers begin to turn a profit, thus going from being "in the red" to being "in the black"
+        \n
+
+        </string>
+    <string name="action_settings">Settings</string>
+    <string name="phone">Phone</string>
+    <string name="action_item1" />
+    <string name="action_item2" />
+    <string name="action_item3" />
+
+</resources>

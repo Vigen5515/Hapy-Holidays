@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.HomeFragment"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:background="@drawable/one">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/country_name"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_margin="20dp"
+        android:textColor="@color/black2"
+        android:background="@drawable/txt_backgraund"
+        android:clickable="false"
+        android:hint="  set country code"
+        android:inputType="text" />
+
+
+<Spinner
+    android:inputType="number"
+    android:background="@drawable/txt_backgraund"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/country_mount"
+
+        />
+<Spinner
+    android:background="@drawable/txt_backgraund"
+    android:inputType="number"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:hint="set day"
+        android:id="@+id/country_day"
+
+        />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:background="@drawable/btn_backgaund"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="open"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_save"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/test_id"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="center"
+        android:textColor="@color/gold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="𝓗  𝓞  𝓛  𝓘  𝓓  𝓐  𝓨"
+        android:textSize="40dp"/>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

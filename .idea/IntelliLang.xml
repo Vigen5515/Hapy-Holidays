@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="AIDL" injector-id="xml">
+      <display-name>string</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("string"))]]></place>
+    </injection>
+  </component>
+</project>
